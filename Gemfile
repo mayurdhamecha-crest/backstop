@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 ruby '1.9.3'
 
 gem 'bundler'
-gem 'foreman'
+gem 'foreman', '>= 0.64.0'
 gem 'dotenv'
 gem 'sinatra'
 gem 'thin'
